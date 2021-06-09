@@ -70,7 +70,7 @@ const Footer = () => {
 					<p><i></i> www.myproject.com</p>
 				</li>
 			</ul>
-			<div className="copyrights"><p>Copyright © 2015-2021 Bakery WordPress Theme by <i>A Wajid.</i></p></div>
+			<div className="copyrights"><p>Copyright © 2015-2021 Bakery WordPress Theme by <i>A Wajid. and Thanx to Miss Faiza</i></p></div>
 		</div>
 
 	</div>
